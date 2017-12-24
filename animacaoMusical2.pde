@@ -1,6 +1,6 @@
 // Codigo baseado em:
 // https://github.com/samuellapointe/ProcessingCubes
-// Animação apartir de musica
+// Animação a partir de áudio externo
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 import processing.video.*;
